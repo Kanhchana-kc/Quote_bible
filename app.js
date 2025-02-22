@@ -62,41 +62,27 @@ document.querySelector(".copy").addEventListener("click", () => {
     });
 });
 
-// Sound functionality (Text to Speech) with Play/Stop toggle using the icon
 document.querySelector(".sound").addEventListener("click", () => {
-    const soundIcon = document.querySelector(".sound i"); // Get the sound icon
-
+    console.log("Button clicked");
+    const soundIcon = document.querySelector(".sound i");
     if (isSpeaking) {
-        // If already speaking, stop the speech
+        console.log("Stopping speech");
         speechSynthesis.cancel();
         isSpeaking = false;
-        soundIcon.classList.remove("fa-volume-slash"); // Remove the "Stop" icon
-        soundIcon.classList.add("fa-volume-up"); // Add the "Play" icon
+        soundIcon.classList.remove("fa-volume-slash");
+        soundIcon.classList.add("fa-volume-up");
     } else {
-        // If not speaking, start speaking the quote
+        console.log("Starting speech");
         const quote = quoteText.innerText;
         const khmerQuote = khmerQuoteText.innerText;
-
         utterance = new SpeechSynthesisUtterance(quote + " " + khmerQuote);
+        utterance.lang = "en-US"; // Or adjust to the desired language
         speechSynthesis.speak(utterance);
         isSpeaking = true;
-        soundIcon.classList.remove("fa-volume-up"); // Remove the "Play" icon
-        soundIcon.classList.add("fa-solid fa-stop"); // Add the "Stop" icon
+        soundIcon.classList.remove("fa-volume-up");
+        soundIcon.classList.add("fa-solid fa-stop");
     }
 });
-
-// Fetch the navbar HTML content
-fetch('navbar.html')
-    .then(response => response.text())  // Read the HTML file as text
-    .then(data => {
-        // Insert the navbar HTML into the placeholder div
-        document.getElementById('navbar-placeholder').innerHTML = data;
-    })
-    .catch(error => {
-        console.error("Error loading navbar:", error);
-        // If an error occurs, display a message
-        document.getElementById('navbar-placeholder').innerHTML = "<p>Navbar could not be loaded.</p>";
-    });
 
 // // Twitter functionality (share to Twitter) with confirmation
 // document.querySelector(".twitter").addEventListener("click", () => {
