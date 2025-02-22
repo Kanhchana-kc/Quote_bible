@@ -207,6 +207,90 @@
       "content": "Come to me, all who labor and are heavy laden, and I will give you rest.",
       "author": "Matthew 11:28",
       "category": "Rest",
-      "khmer_content": "មកខ្ញុំ អ្នកទាំងឡាយដែលខំប្រឹងនិងមានការផ្ទុកបន្ទុកធ្ងន់ ហើយខ្ញុំនឹងផ្ដល់ការសម្រាកឲ្យអ្នក។"
-  }
+      "khmer_content": "មករកខ្ញុំ អ្នកទាំងឡាយដែលខំប្រឹងនិងមានការផ្ទុកបន្ទុកធ្ងន់ ហើយខ្ញុំនឹងផ្ដល់ការសម្រាកឲ្យអ្នក។"
+  },
+  {
+    "id": 26,
+    "content": "The Lord is near to all who call on him, to all who call on him in truth.",
+    "author": "Psalm 145:18",
+    "category": "Prayer",
+    "khmer_content": "ព្រះជាម្ចាស់នៅជិតអ្នកទាំងអស់ដែលហៅឈ្មោះគាត់ ដល់អ្នកទាំងអស់ដែលហៅឈ្មោះគាត់ដោយសេចក្តីពិត។"
+},
+{
+    "id": 27,
+    "content": "I will never leave you nor forsake you.",
+    "author": "Hebrews 13:5",
+    "category": "Assurance",
+    "khmer_content": "ខ្ញុំមិនដែលចាកចេញពីអ្នកទេ ហើយមិនលែងលះអ្នកទេ។"
+},
+{
+    "id": 28,
+    "content": "Trust in the Lord with all your heart, and lean not on your own understanding.",
+    "author": "Proverbs 3:5",
+    "category": "Wisdom",
+    "khmer_content": "ទុកចិត្តលើព្រះជាម្ចាស់ដោយបេះដូងទាំងមូលរបស់អ្នក ហើយកុំផ្អែកលើការយល់ដឹងផ្ទាល់របស់អ្នក។"
+},
+{
+    "id": 29,
+    "content": "The peace of God, which transcends all understanding, will guard your hearts and your minds in Christ Jesus.",
+    "author": "Philippians 4:7",
+    "category": "Peace",
+    "khmer_content": "សុខភាពនៃព្រះគ្របដណ្តប់ទៅលើការយល់ដឹងទាំងអស់ នឹងការពារបេះដូង និងមโนភិតថ្វីនៅក្នុងព្រះយេស៊ូវគ្រីស្ទ។"
+},
+{
+    "id": 30,
+    "content": "You are the light of the world. A town built on a hill cannot be hidden.",
+    "author": "Matthew 5:14",
+    "category": "Light",
+    "khmer_content": "អ្នកគឺជាពន្លឺនៃពិភពលោក។ ទីក្រុងដែលបានសាងសង់លើភ្នំនោះមិនអាចលាក់ខ្លួនបានទេ។"
+},
+{
+  "id": 31,
+  "content": "The Lord is my shepherd; there is nothing I shall want.",
+  "author": "Psalm 23:1",
+  "category": "Guidance",
+  "khmer_content": "ព្រះជាម្ចាស់ជាអ្នកបម្រើរបស់ខ្ញុំ ខ្ញុំមិនខ្វះអ្វីឡើយ។"
+},
+{
+  "id": 32,
+  "content": "But the fruit of the Spirit is love, joy, peace, forbearance, kindness, goodness, faithfulness, gentleness, and self-control.",
+  "author": "Galatians 5:22-23",
+  "category": "Virtue",
+  "khmer_content": "ប៉ុន្តែផលល្អនៃព្រះវិញ្ញាណគឺជាស្រឡាញ់ សោតស្នេហ៍ សុខុមាលភាព សន្ទស្សន៍ អំណោយសុចរិត ភាពមេត្តាករុណា បច្ចុប្បន្នភាព និងភាពឯកទេស។"
+},
+{
+  "id": 33,
+  "content": "Love your enemies, do good to those who hate you, bless those who curse you, pray for those who mistreat you.",
+  "author": "Luke 6:27-28",
+  "category": "Love",
+  "khmer_content": "ស្រឡាញ់សត្រូវរបស់អ្នក អ្នកណាដែលស្អប់អ្នក បរិសុទ្ធអ្នកដែលប្អូនអោយអ្នក ហើយព្រះរបស់អ្នកទុកចិត្តលើអ្នកដែលមិនមែនជម្រើសអ្នក។"
+},
+{
+  "id": 34,
+  "content": "Jesus said, 'I am the bread of life. Whoever comes to me will never go hungry, and whoever believes in me will never be thirsty.'",
+  "author": "John 6:35",
+  "category": "Jesus",
+  "khmer_content": "ព្រះយេស៊ូវបាននិយាយថា 'ខ្ញុំគឺជាប្រេងនៃជីវិត។ អ្នកណាដែលមកកាន់ខ្ញុំមិនធ្វើអោយអស់ពេលឈប់បាន ហើយអ្នកណាដែលជឿលើខ្ញុំមិនត្រូវខ្វះទឹកត្រជាក់។'"
+},
+{
+  "id": 35,
+  "content": "For God so loved the world that he gave his only Son, that whoever believes in him should not perish but have eternal life.",
+  "author": "John 3:16",
+  "category": "Love",
+  "khmer_content": "ព្រះបានស្រឡាញ់ពិភពលោកយ៉ាងខ្លាំង ដូច្នេះគាត់បានផ្ដល់បុត្រខ្លួនឯង ដើម្បីអ្នកណាដែលជឿលើគាត់គ្មានការបាត់បង់ទេ ប៉ុន្តែទទួលបានជីវិតឋាននិរ័ត្តរ។"
+},
+{
+  "id": 36,
+  "content": "I am the way, and the truth, and the life. No one comes to the Father except through me.",
+  "author": "John 14:6",
+  "category": "Jesus",
+  "khmer_content": "ខ្ញុំគឺជាគន្លងនិងពិតនិងជីវិត។ មនុស្សគ្មានការចូលទៅកាន់ព្រះប៉ាដោយមិនតាមខ្ញុំទេ។"
+},
+{
+  "id": 37,
+  "content": "Blessed are the poor in spirit, for theirs is the kingdom of heaven.",
+  "author": "Matthew 5:3",
+  "category": "Beatitudes",
+  "khmer_content": "ពរអ្នកដែលក្រីក្រ​នៅក្នុងវិញ្ញាណ ពីព្រោះព្រះរដ្ឋាភិបាលនៃស្វាយព្រះ។"
+}
 ]
