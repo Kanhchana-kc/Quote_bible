@@ -1,0 +1,212 @@
+[
+    {
+        "id": 1,
+        "content": "I can do all things through Christ who strengthens me.",
+        "author": "Philippians 4:13",
+        "category": "Faith",
+        "khmer_content": "ខ្ញុំអាចធ្វើអ្វីៗទាំងអស់តាមរយៈព្រះគ្រីស្ទដែលផ្ដល់កម្លាំងឲ្យខ្ញុំ។"
+    },
+    {
+        "id": 2,
+        "content": "For God so loved the world, that he gave his only Son, that whoever believes in him should not perish but have eternal life.",
+        "author": "John 3:16",
+        "category": "Love",
+        "khmer_content": "ព្រះបានស្រឡាញ់ពិភពលោកយ៉ាងខ្លាំង ដូច្នេះគាត់បានផ្ដល់បុត្រខ្លួនឯង ដើម្បីអ្នកណាដែលជឿលើគាត់គ្មានការបាត់បង់ទេ ប៉ុន្តែទទួលបានជីវិតឋាននិរ័ត្តរ។"
+    },
+    {
+        "id": 3,
+        "content": "The Lord is my shepherd; I shall not want.",
+        "author": "Psalm 23:1",
+        "category": "Guidance",
+        "khmer_content": "ព្រះជាម្ចាស់ជាអ្នកបម្រើរបស់ខ្ញុំ ខ្ញុំមិនខ្វះអ្វីឡើយ។"
+    },
+    {
+        "id": 4,
+        "content": "The Lord is my light and my salvation; whom shall I fear?",
+        "author": "Psalm 27:1",
+        "category": "Protection",
+        "khmer_content": "ព្រះជាម្ចាស់ជាស្រាបស្រឡាញ់របស់ខ្ញុំ និងការសង្គ្រោះរបស់ខ្ញុំ ខ្ញុំត្រូវការព្រងើយទេ?"
+    },
+    {
+        "id": 5,
+        "content": "Be strong and courageous. Do not be afraid; do not be discouraged, for the Lord your God will be with you wherever you go.",
+        "author": "Joshua 1:9",
+        "category": "Strength",
+        "khmer_content": "ក្លាហាននិងក្លែងក្លាយ មិនត្រូវភ័យទេ មិនត្រូវស្ទាក់ស្ទើរ ទេ ពីព្រោះព្រះជាម្ចាស់ជាខ្ញុំត្រូវការបាននៅជាមួយអ្នកគ្រប់ទីកន្លែង។"
+    },
+    {
+        "id": 6,
+        "content": "Cast all your anxiety on him because he cares for you.",
+        "author": "1 Peter 5:7",
+        "category": "Hope",
+        "khmer_content": "ផ្ដាច់ទាំងអស់នៃការព្រួយបារម្ភរបស់អ្នកទៅលើគាត់ ពីព្រោះគាត់ថែរក្សាអ្នក។"
+    },
+    {
+        "id": 7,
+        "content": "For I know the plans I have for you, declares the Lord, plans to prosper you and not to harm you, plans to give you a hope and a future.",
+        "author": "Jeremiah 29:11",
+        "category": "Future",
+        "khmer_content": "ព្រះអម្ចាស់បានប្រកាសថា ខ្ញុំស្គាល់ផែនការដែលខ្ញុំមានសម្រាប់អ្នក ផែនការដើម្បីធ្វើឲ្យអ្នករីកចម្រើន និងមិនធ្វើឲ្យអ្នកប៉ះពាល់ទេ ផែនការដើម្បីផ្ដល់ការរំពឹង និងមុខវិជ្ជាដល់អ្នក។"
+    },
+    {
+        "id": 8,
+        "content": "Jesus said, 'I am the way and the truth and the life. No one comes to the Father except through me.'",
+        "author": "John 14:6",
+        "category": "Jesus",
+        "khmer_content": "ព្រះយេស៊ូវបាននិយាយថា 'ខ្ញុំគឺជាកន្លែង និងពិត និងជីវិត។ មនុស្សគ្មានការចូលទៅកាន់ព្រះប៉ាដោយមិនតាមខ្ញុំទេ។'"
+    },
+    {
+        "id": 9,
+        "content": "Love your neighbor as yourself.",
+        "author": "Matthew 22:39",
+        "category": "Love",
+        "khmer_content": "ស្រឡាញ់អ្នកជិតខាងរបស់អ្នកដូចជាខ្លួនអ្នក។"
+    },
+    {
+        "id": 10,
+        "content": "And we know that in all things God works for the good of those who love him, who have been called according to his purpose.",
+        "author": "Romans 8:28",
+        "category": "Faith",
+        "khmer_content": "ហើយយើងដឹងថាក្នុងគ្រប់ស្ថានភាព ព្រះបង្រួបប្រសិនបើវាអំពីអ្នកដែលស្រឡាញ់គាត់ ហើយគាត់បានអញ្ជើញអោយបញ្ចូលគ្នា។"
+    },
+    {
+        "id": 11,
+        "content": "The Lord is my refuge and my fortress, my God, in whom I trust.",
+        "author": "Psalm 91:2",
+        "category": "Security",
+        "khmer_content": "ព្រះជាម្ចាស់ជាអគ្គការពាររបស់ខ្ញុំ និងទ្រព្យសម្បត្តិរបស់ខ្ញុំ គាត់ជាព្រះរបស់ខ្ញុំ ដែលខ្ញុំទុកចិត្ត។"
+    },
+    {
+        "id": 12,
+        "content": "Do not fear, for I am with you; do not be dismayed, for I am your God.",
+        "author": "Isaiah 41:10",
+        "category": "Encouragement",
+        "khmer_content": "កុំភ័យទេ ពីព្រោះខ្ញុំស្ថិតនៅជាមួយអ្នក។ កុំធ្វើបាបក៏ព្រោះខ្ញុំជាព្រះរបស់អ្នក។"
+    },
+    {
+        "id": 13,
+        "content": "Let all that you do be done in love.",
+        "author": "1 Corinthians 16:14",
+        "category": "Love",
+        "khmer_content": "ឲ្យការធ្វើទាំងអស់របស់អ្នកត្រូវបានអនុវត្តក្នុងការស្រឡាញ់។"
+    },
+    {
+        "id": 14,
+        "content": "But the fruit of the Spirit is love, joy, peace, forbearance, kindness, goodness, faithfulness, gentleness and self-control.",
+        "author": "Galatians 5:22-23",
+        "category": "Virtue",
+        "khmer_content": "ប៉ុន្តែផលល្អនៃព្រះវិញ្ញាណគឺជាស្រឡាញ់ សោតស្នេហ៍ សុខុមាលភាព សន្ទស្សន៍ អំណោយសុចរិត ភាពមេត្តាករុណា បច្ចុប្បន្នភាព និងភាពឯកទេស។"
+    },
+    {
+        "id": 15,
+        "content": "And we have seen and testify that the Father has sent the Son to be the Savior of the world.",
+        "author": "1 John 4:14",
+        "category": "Jesus",
+        "khmer_content": "ហើយយើងបានមើលហើយយល់សាកល្បងថាព្រះបន្ទុះបានផ្ញើព្រះបុត្រដើម្បីជាជើងភ្លើងរាស្ត្រប្រទេស។"
+    },
+    {
+        "id": 16,
+        "content": "For God so loved the world that he gave his only Son, that whoever believes in him shall not perish but have eternal life.",
+        "author": "John 3:16",
+        "category": "Love",
+        "khmer_content": "ព្រះបានស្រឡាញ់ពិភពលោកយ៉ាងខ្លាំង ដូច្នេះគាត់បានផ្ដល់បុត្រខ្លួនឯង ដើម្បីអ្នកណាដែលជឿលើគាត់គ្មានការបាត់បង់ទេ ប៉ុន្តែទទួលបានជីវិតឋាននិរ័ត្តរ។"
+    },
+    {
+        "id": 17,
+        "content": "The Lord is close to the brokenhearted and saves those who are crushed in spirit.",
+        "author": "Psalm 34:18",
+        "category": "Comfort",
+        "khmer_content": "ព្រះជាម្ចាស់នៅជិតអ្នកដែលហួសពីចិត្ត ហើយគាត់សង្គ្រោះអ្នកដែលជាប់ចិត្តរំខាន។"
+    },
+    {
+        "id": 18,
+        "content": "For nothing will be impossible with God.",
+        "author": "Luke 1:37",
+        "category": "Possibilities",
+        "khmer_content": "ព្រោះគ្មានអ្វីដែលមិនអាចធ្វើបានជាមួយព្រះ។"
+    },
+    {
+        "id": 19,
+        "content": "For I know the plans I have for you, declares the Lord, plans to prosper you and not to harm you, plans to give you a hope and a future.",
+        "author": "Jeremiah 29:11",
+        "category": "Hope",
+        "khmer_content": "ព្រះអម្ចាស់បានប្រកាសថា ខ្ញុំស្គាល់ផែនការដែលខ្ញុំមានសម្រាប់អ្នក ផែនការដើម្បីធ្វើឲ្យអ្នករីកចម្រើន និងមិនធ្វើឲ្យអ្នកប៉ះពាល់ទេ ផែនការដើម្បីផ្ដល់ការរំពឹង និងមុខវិជ្ជាដល់អ្នក។"
+    },
+    {
+        "id": 20,
+        "content": "Be still, and know that I am God.",
+        "author": "Psalm 46:10",
+        "category": "Faith",
+        "khmer_content": "ស្ងាត់ស្ងាប់ ហើយដឹងថាខ្ញុំគឺជាព្រះ។"
+    },
+    {
+        "id": 21,
+        "content": "The Lord is my strength and my shield; my heart trusts in him, and he helps me.",
+        "author": "Psalm 28:7",
+        "category": "Strength",
+        "khmer_content": "ព្រះជាម្ចាស់គឺជាកម្លាំងនិងដៃការពាររបស់ខ្ញុំ; បេះដូងខ្ញុំទុកចិត្តលើគាត់ ហើយគាត់ជួយខ្ញុំ។"
+    },
+    {
+        "id": 22,
+        "content": "But seek first the kingdom of God and his righteousness, and all these things will be added to you.",
+        "author": "Matthew 6:33",
+        "category": "Priority",
+        "khmer_content": "តែស្វែងរកមុនសិរីល្អនៃព្រះ និងសេចក្ដីសុចរិតរបស់គាត់ រួចអ្វីៗទាំងអស់នឹងត្រូវបានបន្ថែមចំពោះអ្នក។"
+    },
+    {
+        "id": 23,
+        "content": "The steadfast love of the Lord never ceases; his mercies never come to an end.",
+        "author": "Lamentations 3:22",
+        "category": "Love",
+        "khmer_content": "សេចក្ដីស្រឡាញ់របស់ព្រះមិនចេះចប់ ហើយការរុងរឿងរបស់គាត់មិនមានទីបញ្ចប់។"
+    },
+    {
+        "id": 24,
+        "content": "I have set the Lord always before me; because he is at my right hand, I shall not be shaken.",
+        "author": "Psalm 16:8",
+        "category": "Faith",
+        "khmer_content": "ខ្ញុំបានដាក់ព្រះតែងតែពីមុខខ្ញុំ ព្រោះគាត់ស្ថិតនៅផ្នែកស្ដាំរបស់ខ្ញុំ ខ្ញុំមិនរងចាំនឹងរន្ធត់ឡើយ។"
+    },
+    {
+        "id": 25,
+        "content": "Come to me, all who labor and are heavy laden, and I will give you rest.",
+        "author": "Matthew 11:28",
+        "category": "Rest",
+        "khmer_content": "មកខ្ញុំ អ្នកទាំងឡាយដែលខំប្រឹងនិងមានការផ្ទុកបន្ទុកធ្ងន់ ហើយខ្ញុំនឹងផ្ដល់ការសម្រាកឲ្យអ្នក។"
+    },
+  {
+      "id": 21,
+      "content": "The Lord is my strength and my shield; my heart trusts in him, and he helps me.",
+      "author": "Psalm 28:7",
+      "category": "Strength",
+      "khmer_content": "ព្រះជាម្ចាស់គឺជាកម្លាំងនិងដៃការពាររបស់ខ្ញុំ; បេះដូងខ្ញុំទុកចិត្តលើគាត់ ហើយគាត់ជួយខ្ញុំ។"
+  },
+  {
+      "id": 22,
+      "content": "But seek first the kingdom of God and his righteousness, and all these things will be added to you.",
+      "author": "Matthew 6:33",
+      "category": "Priority",
+      "khmer_content": "តែស្វែងរកមុនសិរីល្អនៃព្រះ និងសេចក្ដីសុចរិតរបស់គាត់ រួចអ្វីៗទាំងអស់នឹងត្រូវបានបន្ថែមចំពោះអ្នក។"
+  },
+  {
+      "id": 23,
+      "content": "The steadfast love of the Lord never ceases; his mercies never come to an end.",
+      "author": "Lamentations 3:22",
+      "category": "Love",
+      "khmer_content": "សេចក្ដីស្រឡាញ់របស់ព្រះមិនចេះចប់ ហើយការរុងរឿងរបស់គាត់មិនមានទីបញ្ចប់។"
+  },
+  {
+      "id": 24,
+      "content": "I have set the Lord always before me; because he is at my right hand, I shall not be shaken.",
+      "author": "Psalm 16:8",
+      "category": "Faith",
+      "khmer_content": "ខ្ញុំបានដាក់ព្រះតែងតែពីមុខខ្ញុំ ព្រោះគាត់ស្ថិតនៅផ្នែកស្ដាំរបស់ខ្ញុំ ខ្ញុំមិនរងចាំនឹងរន្ធត់ឡើយ។"
+  },
+  {
+      "id": 25,
+      "content": "Come to me, all who labor and are heavy laden, and I will give you rest.",
+      "author": "Matthew 11:28",
+      "category": "Rest",
+      "khmer_content": "មកខ្ញុំ អ្នកទាំងឡាយដែលខំប្រឹងនិងមានការផ្ទុកបន្ទុកធ្ងន់ ហើយខ្ញុំនឹងផ្ដល់ការសម្រាកឲ្យអ្នក។"
+  }
+]
